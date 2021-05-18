@@ -1,0 +1,48 @@
+.img2 {
+    height: 250px;
+    width: 250px;
+}
+
+body {
+    text-align: center;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.menu {
+    z-index: 1000;
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: darkmagenta;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#mycarousel {
+    background-color: darksalmon;
+}
+
+#img3 {
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+
+}
+
+p {
+    font-size: 80;
+}
